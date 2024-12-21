@@ -4,41 +4,47 @@
         "Russian": "Набор для создания боеприпасов",
         "Turkish": "Mühimmat Üretim Aletleri",
 		"Italian": "Attrezzi per la Creazione di Munizioni",
-		"German": "Munitionsherstellung Werkzeuge"
+		"German": "Munitionsherstellung Werkzeuge",
+		"Japanese": "弾薬製作用工具"
     },
     "GAMEPLAY_AmmoToolsDescription": {
         "English": "Tools used for crafting ammunition in the field.",
         "Russian": "Инструменты для создания амуниции в полевых условиях.",
         "Turkish": "Arazide mühimmat oluşturmak için kullanılan aletler.",
 		"Italian": "Attrezzi utilizzati per la creazione di munizioni nei campi",
-		"German": "Werkzeuge zur Herstellung von Munition im Feld."
+		"German": "Werkzeuge zur Herstellung von Munition im Feld.",
+		"Japanese": "野外で弾薬を製作するための工具一式。"
     },
     "GAMEPLAY_EmptyShellCasing": {
         "English": "Flare Shell Casing",
         "Russian": "Гильза сигнальной ракеты",
         "Turkish": "İşaret Fişeği Kovanı",
 		"Italian": "Bossolo di Razzo",
-		"German" : ""
+		"German": "Leuchtpatronen Hülse",
+		"Japanese":"照明弾の薬莢"
     },
     "GAMEPLAY_EmptyShellCasingDescription": {
         "English": "Caliber 4 metal flare shell casing. Can be used to make more flare catridges, it's not reusable.",
         "Russian": "Металлическая гильза 4 калибра от сигнальной ракеты. Используйте для создания новых сигнальных ракет. Одноразовая.",
         "Turkish": "4 Kalibre metal işaret fişeği kovanı. Daha fazla işaret fişeği kovanı yapmak için kullanılabilir, tekrar kullanılamaz.",
 		"Italian": "Un bossolo di razzo calibro 4. Può essere utilizzato per creare più razzi di segnalazione, non è riutilizzabile.",
-		"German":  ""
+		"German":  "Metallhülse für Leuchtpatronen Kaliber 4. Kann zur Herstellung weiterer Leuchtpatronen verwendet werden, ist nicht wiederverwendbar.",
+		"Japanese":".4口径照明弾用の金属製薬莢。照明弾の製作に使えるが、再利用はできない。"
     },
     "GAMEPLAY_Magnesium": {
         "English": "Magnesium powder",
         "Russian": "Магниевый порошок",
         "Turkish": "Magnezyum tozu",
 		"Italian": "Magnesio in Polvere",
-		"German": ""
+		"German": "Magnesiumpulver",
+		"Japanese":"マグネシウムの粉末"
     },
     "GAMEPLAY_MagnesiumDescription": {
         "English": "Powdered Magnesium in a can, highly flammable and reactive. Can be used for crafting or as accelerant.",
         "Russian": "Порошок Магния в банке, крайне огнеопасен. Можно использовать для крафта или как катализатор.",
         "Turkish": "Bir kutu toz Magnezyum, oldukça yanıcı ve reaktif. Tezgahta veya ateş yakarken hızlandırıcı olarak kullanılabilir.",
 		"Italian": "Magnesio in polvere in un barattolo, altamente infiammabile e reattivo. Può essere utilizzato per la creazione o come accelerante.",
-		"German":  ""
+		"German":  "Magnesiumpulver in einer Dose, leicht entzündlich und reaktiv. Kann zum Basteln oder als Brandbeschleuniger verwendet werden.",
+		"Japanese":"缶入りの粉末マグネシウム、可燃性と反応性が非常に高い。 工作の素材や燃焼促進剤として使用できる。"
     }
 }
